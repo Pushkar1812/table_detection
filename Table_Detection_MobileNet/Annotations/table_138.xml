@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Table_images</folder>
+	<filename>%5BMS-OXODLGT%5D-080425_13.jpg</filename>
+	<path>C:\Users\DELL\Downloads\Major\Table_images\%5BMS-OXODLGT%5D-080425_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>792</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>179</ymin>
+			<xmax>519</xmax>
+			<ymax>691</ymax>
+		</bndbox>
+	</object>
+</annotation>

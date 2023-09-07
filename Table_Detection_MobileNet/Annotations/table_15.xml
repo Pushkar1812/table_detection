@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Table_images</folder>
+	<filename>%5B%EA%B2%BD%ED%97%98%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%EC%9D%B4%EB%8C%80%ED%91%9C_2010120172_Arrhus_0.jpg</filename>
+	<path>C:\Users\DELL\Downloads\Major\Table_images\%5B%EA%B2%BD%ED%97%98%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%EC%9D%B4%EB%8C%80%ED%91%9C_2010120172_Arrhus_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>842</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>444</ymin>
+			<xmax>557</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+</annotation>

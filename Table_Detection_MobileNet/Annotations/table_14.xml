@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Table_images</folder>
+	<filename>%28REVISED%29%20LEASE%2010%20PLUS%203%20AND%20PURCHASE%2044%20PLUS%203%20NEW%20VERSION_2.jpg</filename>
+	<path>C:\Users\DELL\Downloads\Major\Table_images\%28REVISED%29%20LEASE%2010%20PLUS%203%20AND%20PURCHASE%2044%20PLUS%203%20NEW%20VERSION_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>842</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>72</ymin>
+			<xmax>570</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

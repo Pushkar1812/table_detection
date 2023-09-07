@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Table_images</folder>
+	<filename>%20Edward%20Dawes%20paper_14.jpg</filename>
+	<path>C:\Users\DELL\Downloads\Major\Table_images\%20Edward%20Dawes%20paper_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>842</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>420</ymin>
+			<xmax>487</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

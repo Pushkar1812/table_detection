@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Table_images</folder>
+	<filename>%20%20%202013_2.jpg</filename>
+	<path>C:\Users\DELL\Downloads\Major\Table_images\%20%20%202013_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>595</width>
+		<height>842</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>209</ymin>
+			<xmax>544</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+</annotation>
